@@ -1,0 +1,10 @@
+{
+	"id": "74d609e3-5d5a-4d59-8b75-73076e8bd102",
+	"name": "Smarter todos",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A smart assistant that can help creating todos based on a doc",
+	"author": "Pierre-Louis Létoquart",
+	"authorUrl": "https://www.linkedin.com/in/pierre-louis-l%C3%A9toquart-b30b651b6/",
+	"isDesktopOnly": true
+}
